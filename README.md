@@ -2,7 +2,7 @@
 
 A demonstration of autonomous hospital delivery robot navigation using a Zumo32U4 robot platform accessed remotely through LabsLand's remote laboratory infrastructure.
 
-![Hospital Robot Demo](assets/demo_screenshot.png)
+![Hospital Robot Demo](assets/LabsLandTitle.jpg)
 
 ## 🏥 Project Overview
 
@@ -14,7 +14,7 @@ This project simulates a hospital delivery/assistance robot that autonomously na
 |-----------|-------|
 | **Platform** | LabsLand Remote Laboratories |
 | **Robot Location** | Bilbao, Spain |
-| **Accessed Remotely** | San Diego, CA, USA |
+| **Accessed Remotely** | San Diego, CA |
 | **Robot Model** | Pololu Zumo32U4 |
 | **Access URL** | `chemicalqd.labsland.com` |
 | **IDE URL** | `arduino-robot-code.ide.labsland.com` |
@@ -93,7 +93,7 @@ The robot uses a finite state machine architecture for reliable, predictable nav
 - `RETURN_TO_NURSE` - Safe return path
 - `MISSION_COMPLETE` - End state
 
-### 4. Audio Feedback System
+### 4. Audio Feedback System (Future)
 Different tones for different events enable staff awareness:
 
 | Tone Type | Function | Frequency |
