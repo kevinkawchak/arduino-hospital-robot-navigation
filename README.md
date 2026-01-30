@@ -13,11 +13,11 @@ This project simulates a hospital delivery/assistance robot that autonomously na
 | Parameter | Value |
 |-----------|-------|
 | **Platform** | LabsLand Remote Laboratories |
-| **Robot Location** | San Diego, California, USA |
+| **Robot Location** | Bilbao, Spain |
+| **Accessed Remotely** | San Diego, CA, USA |
 | **Robot Model** | Pololu Zumo32U4 |
 | **Access URL** | `chemicalqd.labsland.com` |
 | **IDE URL** | `arduino-robot-code.ide.labsland.com` |
-| **Lab Provider** | ChemicalQDevice |
 
 ## 🤖 Robot Specifications
 
