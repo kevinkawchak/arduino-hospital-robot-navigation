@@ -2,9 +2,9 @@
 
 A demonstration of autonomous hospital delivery robot navigation using a Zumo32U4 robot platform accessed remotely through LabsLand's remote laboratory infrastructure.
 
-## Video, 2:27: [arduino_hospital_robot_navigation](https://drive.google.com/drive/folders/1l0aWsSA5KEp4Q7_m8034OmL1qkxONNXf?usp=sharing)
-## Update RL Video, 2:54: [arduino_hospital_robot_navigation_RL](https://drive.google.com/drive/folders/1leHVc8xvDDE-TO3S-0fI4KPEotgI-jy_?usp=sharing)
-Code update (Q-learning) by Opus; Episode 1: Completed, Episode 2: ~78% (time limit). Episode 2 reward was 59% higher at same point (118 vs. 74). However, 15% accuracy.
+## Video: [arduino_hospital_robot_navigation](https://drive.google.com/drive/folders/1l0aWsSA5KEp4Q7_m8034OmL1qkxONNXf?usp=sharing)
+## Update RL Video: [arduino_hospital_robot_navigation_RL](https://drive.google.com/drive/folders/1leHVc8xvDDE-TO3S-0fI4KPEotgI-jy_?usp=sharing)
+Code update (Q-learning) by Opus; Episode 1: Completed, Episode 2: ~78% (time limit). Episode 2 reward was 59% higher at same point (118 vs. 74). However, 15% best accuracy.
 
 <picture>
   <img src="assets/LabsLandTitle.jpg" alt="Hospital Robot Demo">
