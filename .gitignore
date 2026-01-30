@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# IDE
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Arduino build files
+build/
+*.o
+*.elf
+*.hex
+*.bin
+
+# Backup files
+*.bak
+*.backup
+
+# Log files
+*.log
