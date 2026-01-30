@@ -2,6 +2,8 @@
 
 A demonstration of autonomous hospital delivery robot navigation using a Zumo32U4 robot platform accessed remotely through LabsLand's remote laboratory infrastructure.
 
+## Video, 2:27: [arduino_hospital_robot_navigation](https://drive.google.com/drive/folders/1l0aWsSA5KEp4Q7_m8034OmL1qkxONNXf?usp=sharing)
+
 ![Hospital Robot Demo](assets/LabsLandTitle.jpg)
 
 ## 🏥 Project Overview
