@@ -4,7 +4,9 @@ A demonstration of autonomous hospital delivery robot navigation using a Zumo32U
 
 ## Video, 2:27: [arduino_hospital_robot_navigation](https://drive.google.com/drive/folders/1l0aWsSA5KEp4Q7_m8034OmL1qkxONNXf?usp=sharing)
 
-![Hospital Robot Demo](assets/LabsLandTitle.jpg)
+<picture>
+  <img src="assets/LabsLandTitle.jpg" alt="Hospital Robot Demo">
+</picture>
 
 ## 🏥 Project Overview
 
