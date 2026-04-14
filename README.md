@@ -12,7 +12,7 @@ Code update (Q-learning) by Opus; Episode 1: Completed, Episode 2: ~78% (time li
 
 ## 🏥 Project Overview
 
-This project simulates a hospital delivery/assistance robot that autonomously navigates through a hospital environment, visiting multiple stations to pick up and deliver medical supplies. The robot demonstrates careful, measured movements appropriate for healthcare settings with audio feedback at each station.
+This project simulates a hospital delivery/assistance robot that autonomously navigates through a hospital environment, visiting multiple stations to pick up and deliver medical supplies. The robot demonstrates careful, measured movements appropriate for healthcare settings.
 
 ## 🌍 Remote Lab Access Details
 
