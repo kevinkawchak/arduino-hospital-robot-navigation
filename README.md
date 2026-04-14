@@ -251,10 +251,6 @@ Acceleration ramping prevents:
 - Mechanical stress on motors
 - Wheel slippage on smooth hospital floors
 
-### Audio Design Considerations
-- Frequencies chosen to be audible but not alarming
-- Volume levels appropriate for hospital environment
-- Distinct tones for different events prevent confusion
 
 ## 📚 References
 
