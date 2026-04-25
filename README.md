@@ -264,7 +264,7 @@ This project is released under the MIT License. See [LICENSE](LICENSE.md) for de
 
 ## 👤 Author
 
-Created for hospital robotics research and education demonstrations.
+Created for hospital robotics research plus education demonstrations.
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18425488-blue)](https://doi.org/10.5281/zenodo.18425488)
 
